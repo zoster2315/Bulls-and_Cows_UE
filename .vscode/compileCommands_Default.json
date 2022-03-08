@@ -1,0 +1,62 @@
+[
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowCartridge.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowCartridge.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowGame.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowGame.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowGame.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "E:\\\\UnrealEngine\\\\Projects\\\\Bulls and Cows UE\\\\Source\\\\BullCowGame\\\\HiddenWordList.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\UnrealEngine\\Projects\\Bulls and Cows UE\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "E:\\UnrealEngine\\UE_4.27\\Engine\\Source"
+    }
+]
